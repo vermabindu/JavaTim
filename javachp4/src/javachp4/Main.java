@@ -6,7 +6,7 @@ public class Main {
 	long miles = 	SpeedConverter.tomilesPerHour(10.5);
 		System.out.println(miles + " miles");
 		SpeedConverter.printConversion(10.5);
-		System.out.println("he");
+		System.out.println("Happy New Year!");
 
 	}
 
